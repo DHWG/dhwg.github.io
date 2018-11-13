@@ -25,19 +25,19 @@ A good resource for reading up how to brew beer is a book called <a href="https:
 
 ## Ingredients
 
-Let's start with the Ingredients. Traditional german beer is made out of four different ingredients: Water, malt, hop and yeast. 
+Let's start with the Ingredients. Traditional German beer is made out of four different ingredients: Water, malt, hop and yeast. 
 
 #### Water 
-is easy in germany we can just use tab water. The only problem is that tab water can have a high amount of chalk in it that is why we poured our water through one of those water filter systems to get some of the chalk out.
+is easy in Germany we can just use tab water. The only problem is that tab water can have a high amount of chalk in it that is why we poured our water through one of those water filter systems to get some of the chalk out.
 
 #### Malt
-we had no clue but malt is a sort of grain that starts sprouting. This process apperantly creates enzymes that are important for brewing beer. After that the malt is desiccated and after that its beeing grounded.
+we had no clue but malt is a sort of grain that starts sprouting. This process apparently creates enzymes that are important for brewing beer. After that the malt is desiccated and after that its being grounded.
 
 #### Hop
-is responsible for the biterness in the beer. It's very healthy and is the reason for the proverb "Pils instead of pills". After harvesting hop is beeing dried and is pressed into little pellets that can be directly used for brewing. 
+is responsible for the bitterness in the beer. It's very healthy and is the reason for the proverb "Pils instead of pills". After harvesting hop is being dried and is pressed into little pellets that can be directly used for brewing. 
 
 #### Yeast
-Yeast is a special kind of fungus and creates the fermentation of the beer. It converts the sugar of the malt into ethanol and carbon dioxide. So yeast and malt create the alkohol and the bubbles of a beer.
+Yeast is a special kind of fungus and creates the fermentation of the beer. It converts the sugar of the malt into ethanol and carbon dioxide. So yeast and malt create the alcohol and the bubbles of a beer.
 
 ## Equipment
 
