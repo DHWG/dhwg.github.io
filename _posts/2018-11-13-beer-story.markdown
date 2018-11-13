@@ -16,3 +16,15 @@ Welcome to the first post about the DH Beer brewing adventure. We came up with t
 
 This was somehow what we aimed for a homemade beer we brewed ourselves(more on that part later) and be proud of.
 
+
+## Literature
+
+There are some youtube videos that may help some people but we didn't really like them. It was however somehow inspiring to listen to people bubble for 30 minutes about how to do the mash correctly.
+
+## Rough plan
+
+## Equipment
+
+## Ingredients
+
+## Progress 
