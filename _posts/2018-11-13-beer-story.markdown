@@ -21,6 +21,7 @@ This was somehow what we aimed for a homemade beer we brewed ourselves(more on t
 
 There are some youtube videos that may help some people but we didn't really like them. It was however somehow inspiring to listen to people bubble for 30 minutes about how to do the mash correctly.
 
+The best recource for reading up the correct way for brewing beer was for us a book called <a href="https://www.amazon.de/dp/3418008062/ref=asc_df_341800806256837420/?tag=googshopde-21&creative=22398&creativeASIN=3418008062&linkCode=df0&hvadid=310638342202&hvpos=1o1&hvnetw=g&hvrand=13155035818378989475&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042426&hvtargid=pla-564148427400&th=1&psc=1&tag=&ref=&adgrpid=64643860067&hvpone=&hvptwo=&hvadid=310638342202&hvpos=1o1&hvnetw=g&hvrand=13155035818378989475&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9042426&hvtargid=pla-564148427400"> "Heimbrauen - Schritt für Schritt zum eigenen Bier"</a>.
 ## Rough plan
 
 ## Equipment
