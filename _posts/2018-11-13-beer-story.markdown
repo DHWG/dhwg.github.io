@@ -39,8 +39,8 @@ is responsible for the biterness in the beer. It's very healthy and is the reaso
 #### Yeast
 Yeast is a special kind of fungus and creates the fermentation of the beer. It converts the sugar of the malt into ethanol and carbon dioxide. So yeast and malt create the alkohol and the bubbles of a beer.
 
-## Rough plan
-
 ## Equipment
+
+## Brewing
 
 ## Progress 
